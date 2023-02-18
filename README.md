@@ -20,6 +20,8 @@
     car.turn('右')
     car.run(5)
   だとダメ？？動作はするけど。
+  
+  
 
 ☆✨　
 selfについてはlesson9を復習！
